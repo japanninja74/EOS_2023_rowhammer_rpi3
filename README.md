@@ -1,3 +1,5 @@
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc/4.0/) 
+
 # Rowhammer Implementation on rpi3
 
 Simple Rowhammer attack PoC for Raspberry Pi 3B+
@@ -22,6 +24,7 @@ This code is based on [https://github.com/0x5ec1ab/rowhammer_armv8], trimmed dow
 This material was initially developed as part of an assignment for the Operating Systems for embedded systems course delivered at Politecnico di Torino by Prof. Stefano Di Carlo during the academic year 2022/20023. 
 
 Credits for the preparation of this material go to:
+
 * [Nicolas Abril](https://github.com/developedby)
 * [Matteo Isoldi](https://github.com/bOhYee)
 * [Massimiliano Di Todaro](https://github.com/mditodaro)
